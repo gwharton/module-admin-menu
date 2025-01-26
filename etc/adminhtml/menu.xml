@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Gw_AdminMenu::debuglog" title="Debug Logs" translate="title" module="Gw_AdminMenu" parent="Magento_Backend::system" resource="Gw_AdminMenu::debuglog"/>
+    </menu>
+</config>
